@@ -1,7 +1,7 @@
 /*  
 [INFO] 
 NAME=Hole Filler
-VERSION=1.0.0
+VERSION=1.0.1
 AUTHOR=Vasyl Lukianenko
 DEV=https://3dground.net
 HELP=
@@ -12,6 +12,9 @@ Script for bulk placement custom objects to holes=
 
 [1.0.0]
 * Initial release =
+
+[1.0.1]
+*Changed: Resaved template.max for 2024 =
 
 [FILES]
 Install.mcr=
